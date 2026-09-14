@@ -1,0 +1,10 @@
+{
+  "name": "AliCakes",
+  "short_name": "AliCakes",
+  "description": "Calculo exacto de precios de pasteleria en 4 etapas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9F3EA",
+  "theme_color": "#7242B2",
+  "lang": "es"
+}

@@ -1,0 +1,33 @@
+import {
+  Bell,
+  Calculator,
+  ChefHat,
+  Clock3,
+  Copy,
+  FileText,
+  Heart,
+  Package,
+  Pencil,
+  Plus,
+  Settings,
+  Trash2,
+  Wallet,
+  Wheat,
+} from "lucide-react";
+
+export const Icons = {
+  bell: Bell,
+  calculator: Calculator,
+  chef: ChefHat,
+  clock: Clock3,
+  copy: Copy,
+  file: FileText,
+  heart: Heart,
+  package: Package,
+  pencil: Pencil,
+  plus: Plus,
+  settings: Settings,
+  trash: Trash2,
+  wallet: Wallet,
+  wheat: Wheat,
+};
